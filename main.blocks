@@ -1,0 +1,21 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_AnyProp" id="]Xe^Ex[c2dBGfh(O`W9/">NextPage</variable><variable type="KIND_AnyProp" id="%{vT^hS`k~If*pPdFZ@o">ChoiceResults</variable><variable type="KIND_AnyProp" id="9HfoDNWk=$E9??2gk+gw">Choice1</variable><variable type="KIND_AnyProp" id="Bi=oh%i`RSJ*(^:~6,FH">Choice2</variable><variable type="KIND_AnyProp" id="@l%,96o%E;{xLxgH*Xw.">myAny</variable><variable type="KIND_StrArrayProp" id="_5$=H:rM5PQ?*ZCe1!]+">Choices</variable><variable type="KIND_StrArrayProp" id="!i-.9dUj3OZ)PdR.fywq">myStrArray</variable><variable type="KIND_StrProp" id="Ps%#R{$wITtT~QgovHF`">Name</variable><variable type="KIND_StrProp" id="sdNEgTY=_mQDn2iT0xsi">Text</variable><variable type="KIND_StrProp" id="j?vu2FX}}J(!vbCUeW[+">myStr</variable><variable type="KIND_NumProp" id="zAxGx4CbM|;{%dl[5qR4">Portrait</variable><variable type="KIND_NumProp" id="(E3S:MERBF3GZL1R?[$?">myNum</variable><variable id="6Zh5:-W@aujX{O+?A7I#">startScript</variable><variable id="mW^M)g9_Lx%|=1817+9e">nextPage</variable><variable id="l8R5TOzA+TDUiigq#FxX">currentScript</variable><variable id="O?Odz{!,*e!WV7z+%9!3">oldman1</variable><variable id="vZD@(A`xfbIeJs1!p~_H">oldman2</variable><variable id="x3UFYzMJ}nx24,Rz::g!">imsorry1</variable><variable id="=D).3eqRjqT)rO8Zg:?8">imsorry2</variable><variable id="Z8+u6#o{dPqOm|MJXn+1">imsorry3</variable><variable id="3X2dviP]+GZXga7$?C}I">nomoneyforyou1</variable><variable id=")+Pt;g$+Y!8CA}bFS5-;">nomoneyforyou2</variable><variable id="2P?G:j3~dBi^NHX3@woL">nomoneyforyou3</variable><variable id="yb?%1u]wNpH8dh]9TLe6">FinalChoice1</variable><variable id="c9l%K}J[knU24lwTlC(=">FinalChoice2</variable><variable id="hk;/*}#s?^LygY/B}*u@">happy1</variable><variable id="w|R%){]UhDRn-!9MqrW^">happy2</variable><variable id="k0/JIH*thK9ZXpksUMbs">happy3</variable><variable id="7JyR1R)KUv|K@-Gm{3Et">happy4</variable><variable id="XbRmfP`t]`yGFq58?2,g">choiceIndex</variable><variable id="L4?3!R5do7Sn!-;5lPIg">choice1</variable><variable id="h|0?jf5n`+H+:e`^iic.">choice2</variable><variable id="17k@I:JEZt-I,c4J~I4[">makingChoice</variable><variable id="Fy5?lMXAuXD5M]xOrPe2">character1</variable><variable id="6X{E)MyKc}EIaG49,8bK">oldGuyPortraits</variable><variable id="]AE}u~pY/nw4w]sM:]q]">character2</variable><variable id="[a3We$ozR,+ZVJbL?xBT">cloudPortraits</variable><variable id="MzBPgfW[a?)LbtVVZ};c">currentName</variable><variable id="KJ!=AlDlx|12;D12irBV">newScript</variable><variable id="CCl*EXY_0yMe2(L|wLFJ">printingStuff</variable><variable type="KIND_SpriteKind" id="edlp#(f=Zbf*R^;1e^u8">Player</variable><variable type="KIND_SpriteKind" id="U=6.,ftd@ObIGSQ0MBJ-">Projectile</variable><variable type="KIND_SpriteKind" id="m$ipnA~18?/Qu%C3GIg[">Food</variable><variable type="KIND_SpriteKind" id="w|J=mj*JAH6$lW5SJ(lK">Enemy</variable><variable type="KIND_SpriteKind" id="#M2i]m@-ri$5e^@Qb@}o">Text</variable></variables><comment id="Hh2ud!U5eMOuC)_cKhWs" data="0" x="3308" y="20" h="360" w="180">Cloud portraits:
+
+0 = happy
+
+1 = stormy
+
+2 = sad
+
+3 = surprised
+
+Old man portraits:
+
+0 = neutral
+
+1 = disappointed
+
+2 = shocked
+
+3 = happy</comment><comment id="Cqqt4J!fBotfMx}}5Hb*" data="1" x="3308" y="393" h="120" w="300">microsoft/arcade-block-objects
+
+riknoll/arcade-story</comment></xml>
